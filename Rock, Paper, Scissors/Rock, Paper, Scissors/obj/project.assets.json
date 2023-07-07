@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/Rock, Paper, Scissors.csproj",
+      "projectUniqueName": "/Users/soroush/Documents/GitHub/Csharp-small-projects/Rock, Paper, Scissors/Rock, Paper, Scissors/Rock, Paper, Scissors.csproj",
       "projectName": "Rock, Paper, Scissors",
-      "projectPath": "/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/Rock, Paper, Scissors.csproj",
+      "projectPath": "/Users/soroush/Documents/GitHub/Csharp-small-projects/Rock, Paper, Scissors/Rock, Paper, Scissors/Rock, Paper, Scissors.csproj",
       "packagesPath": "/Users/soroush/.nuget/packages/",
-      "outputPath": "/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/",
+      "outputPath": "/Users/soroush/Documents/GitHub/Csharp-small-projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/soroush/.nuget/NuGet/NuGet.Config"

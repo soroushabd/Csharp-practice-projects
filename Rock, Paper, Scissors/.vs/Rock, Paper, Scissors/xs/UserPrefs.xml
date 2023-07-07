@@ -8,7 +8,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Rock, Paper, Scissors" expanded="True" selected="True" />
+          <Node name="Rock, Paper, Scissors" expanded="True">
+            <Node name="Rock, Paper, Scissors" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
