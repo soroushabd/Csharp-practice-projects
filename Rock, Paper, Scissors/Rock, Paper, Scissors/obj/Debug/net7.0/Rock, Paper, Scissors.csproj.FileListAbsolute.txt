@@ -1,0 +1,15 @@
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/Rock, Paper, Scissors.csproj.AssemblyReference.cache
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/Rock, Paper, Scissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/Rock, Paper, Scissors.AssemblyInfoInputs.cache
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/Rock, Paper, Scissors.AssemblyInfo.cs
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/Rock, Paper, Scissors.csproj.CoreCompileInputs.cache
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/bin/Debug/net7.0/Rock, Paper, Scissors
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/bin/Debug/net7.0/Rock, Paper, Scissors.deps.json
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/bin/Debug/net7.0/Rock, Paper, Scissors.runtimeconfig.json
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/bin/Debug/net7.0/Rock, Paper, Scissors.dll
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/bin/Debug/net7.0/Rock, Paper, Scissors.pdb
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/Rock, Paper, Scissors.dll
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/refint/Rock, Paper, Scissors.dll
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/Rock, Paper, Scissors.pdb
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/Rock, Paper, Scissors.genruntimeconfig.cache
+/Users/soroush/Projects/Rock, Paper, Scissors/Rock, Paper, Scissors/obj/Debug/net7.0/ref/Rock, Paper, Scissors.dll
